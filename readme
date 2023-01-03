@@ -1,0 +1,3 @@
+From the first line i realised that using the plus sign (+) can put two sentences from different line in a straigth line. i also moticed that adding a space between the last word and the last double quote eg.("second envotech ") creats a space between the two sentences.
+True or False is classified as boo lean, a number is a number, alphabet is classified as string, and details is an object in data type
+The symbol (=) can be used to assign a string as reflected in line 10, where "nothing" is assigned to age.
